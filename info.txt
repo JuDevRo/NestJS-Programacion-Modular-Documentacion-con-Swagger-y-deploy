@@ -1,0 +1,7 @@
+faltan las variables de entorno
+
+@nestjs/config
+
+.stag.env
+.prod.env
+.env
